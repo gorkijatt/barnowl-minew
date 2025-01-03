@@ -22,7 +22,7 @@
   },
   "main": "./lib/barnowlminew.js",
   "scripts": {
-    "start": "node bin/barnowl-minew"
+    "start": "node test.js"
   },
   "repository": {
     "type": "git",

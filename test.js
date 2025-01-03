@@ -7,7 +7,6 @@ barnowl.addListener(BarnowlMinew, {}, BarnowlMinew.TestListener, {});
 
 barnowl.on("raddec", (raddec) => {
   console.log(raddec);
-  // Trigger your application logic here
 });
 
 const express = require("express");
